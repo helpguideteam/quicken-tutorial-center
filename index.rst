@@ -2,13 +2,13 @@ How Do I Download Quicken Already Purchased – Complete Activation Steps for Ex
 ===============================
 
 
-.. image:: get-start-button.png
+.. image:: help-center-button.png
    :alt: Download Quicken Already Purchased
    :target:  
    :align: center
    
 
-Have you recently completed a Quicken purchase and now need to download it? Whether you bought Quicken from the official website, a retail store, or a third-party seller, this step-by-step guide will walk you through how to download Quicken already purchased, activate your subscription, and install it properly on your Windows PC or Mac.
+Have you recently completed a Quicken purchase and now need to download it? Whether you bought Quicken from the quicken.com/download official website, a retail store, or a third-party seller, this step-by-step guide will walk you through how to download Quicken already purchased, activate your subscription, and install it properly on your Windows PC or Mac.
 
 Quicken remains a top-rated personal finance software, trusted by both individuals and small business owners. If you’re reinstalling or just finalized a purchase and are ready to manage your finances, this guide covers everything—from signing in to setting up your software.
 
