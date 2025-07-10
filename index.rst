@@ -4,7 +4,7 @@ How Do I Download Quicken Already Purchased – Complete Activation Steps for Ex
 
 .. image:: help-center-button.png
    :alt: Download Quicken Already Purchased
-   :target: https://quickencomdownload.github.io/
+   :target: https://pre.im/?GZGqGXnYcaJ9kAGD3iC1ZDcxqd6lUJ5DoVbyv8Eu4cPF88iTvKCTCZaAflkKiPNFlPxPvRzOVg
    :align: center
    
 
